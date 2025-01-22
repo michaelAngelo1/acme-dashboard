@@ -1,5 +1,7 @@
 export default function Page() {
   return (
-    <div>Invoices Dashboard</div>
+    <div className="flex flex-col">
+      <div>Invoice Pages</div>
+    </div>
   )
 }
